@@ -1,6 +1,6 @@
 package com.carlosarroyoam.service.rabbitmq.messages;
 
-import com.carlosarroyoam.service.rabbitmq.config.RabbitMqConsumerConfig;
+import com.carlosarroyoam.service.rabbitmq.core.config.RabbitMqConsumerConfig;
 import com.carlosarroyoam.service.rabbitmq.messages.event.MessageCreatedEvent;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package com.carlosarroyoam.service.rabbitmq.config;
+package com.carlosarroyoam.service.rabbitmq.core.config;
 
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.BindingBuilder;
