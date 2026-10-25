@@ -6,6 +6,5 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class RabbitMqConsumerApplicationTests {
   @Test
-  void contextLoads() {
-  }
+  void contextLoads() {}
 }
